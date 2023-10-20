@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-login {
+    margin-top: 130px;
+    max-width: 700px;
+}
+
+#form-box {
+    border: 1px solid black;
+}
+
+.notification {
+    margin-top: 10px;
+    padding: 3px;
+    border: 1px solid red;
+    color: red;
+}
